@@ -1,2 +1,3 @@
 # hello-world
-学习使用GitHub的范例
+
+Never later to learn,come on!
